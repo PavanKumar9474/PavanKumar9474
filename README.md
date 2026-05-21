@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Pavan Kumar 👋
 
-<!--
-**PavanKumar9474/PavanKumar9474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer
 
-Here are some ideas to get you started:
+### Skills
+- HTML,CSS,JS
+- React.js
+- Python
+- FastAPI
+- Express.js
+- PostgreSQL
+- Docker
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- Smart Exam Seating System
+- Hospital Management System
+- Hostel Management System
+
+### Currently Learning
+- Docker
+- Deployment
+- Authentication Systems
+
+### Contact
+-Gmail - pavanharsha2004@gmail.com
+-Mobile - 6302650118
+- LinkedIn - https://www.linkedin.com/in/pavan-kumar-a-b2a431300/
+- GitHub - https://github.com/PavanKumar9474/PavanKumar9474/
