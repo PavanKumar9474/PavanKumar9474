@@ -14,8 +14,9 @@
 
 ### Projects
 - Smart Exam Seating System
-- Hospital Management System
-- Hostel Management System
+- Hospital Appointment System
+- Hostel Complaint System
+- Student Management System
 
 ### Currently Learning
 - Docker
