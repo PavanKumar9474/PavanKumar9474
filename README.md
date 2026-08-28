@@ -1,7 +1,6 @@
 #  About Me:
 👨‍💻 About Me<br><br>I am a Computer Science student passionate about building modern web applications using Python, FastAPI, React.js, and PostgreSQL. I enjoy turning ideas into real-world projects while continuously improving my programming and problem-solving skills.<br><br>I have worked on projects such as a Government Scheme Portal and a Smart Exam Seating System, which have strengthened my understanding of backend development, REST APIs, database management, and frontend integration.<br><br>I am currently expanding my knowledge in Data Structures & Algorithms, Docker, Cloud Computing, and Generative AI. My goal is to grow as a Software Development Engineer by building impactful software, contributing to open-source projects, and continuously learning new technologies.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/a-pavan-kumar-reddy-b2a431300) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pavanharsha2004@gmail.com) 
 
