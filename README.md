@@ -29,7 +29,6 @@ Currently, I'm strengthening my skills in **Data Structures & Algorithms, Docker
 My goal is to grow into a **Software Development Engineer**, building scalable and useful software, contributing to open-source projects, and continuously improving my problem-solving and system-design skills.
 
 ---
-
 # 🛠️ Tech Stack
 
 ### 💻 Programming Languages
