@@ -1,91 +1,92 @@
-# 👋 Hi, I'm Pavan Kumar Reddy
+👋 Hi, I'm Pavan Kumar Reddy
 
-### 💻 Computer Science Student | Python Full-Stack Developer | Backend & AI Enthusiast
+💻 Computer Science Student | Python Full-Stack Developer | Backend & AI Enthusiast
 
-I'm a Computer Science student passionate about **building practical software applications and solving real-world problems through technology**.
+I'm a Computer Science student passionate about building practical software applications and solving real-world problems through technology.
 
-I primarily work with **Python, FastAPI, React.js, and PostgreSQL**, and I enjoy developing complete applications from backend APIs and database design to frontend integration and deployment.
+I primarily work with Python, FastAPI, React.js, and PostgreSQL, and I enjoy developing complete applications from backend APIs and database design to frontend integration and deployment.
 
-Currently, I'm strengthening my skills in **Data Structures & Algorithms, Docker, Generative AI, and AI-powered application development**.
+Currently, I'm strengthening my skills in Data Structures & Algorithms, Docker, Generative AI, and AI-powered application development.
 
 ---
 
-## 🚀 About Me
+🚀 About Me
 
 - 🎓 Computer Science student
-- 🐍 Focused on **Python Full-Stack Development**
-- ⚡ Building backend applications with **FastAPI & REST APIs**
-- ⚛️ Developing interactive frontends using **React.js**
-- 🗄️ Working with **PostgreSQL, SQLite & Supabase**
-- 🐳 Learning and using **Docker & containerization**
-- 🧠 Practicing **Data Structures & Algorithms**
-- 🤖 Exploring **Generative AI, LLMs, RAG & AI-powered applications**
-- 🔧 Familiar with **Git, GitHub, GitHub Actions & CI/CD**
+- 🐍 Focused on Python Full-Stack Development
+- ⚡ Building backend applications with FastAPI & REST APIs
+- ⚛️ Developing interactive frontends using React.js
+- 🗄️ Working with PostgreSQL, SQLite & Supabase
+- 🐳 Learning and using Docker & containerization
+- 🧠 Practicing Data Structures & Algorithms
+- 🤖 Exploring Generative AI, LLMs, RAG & AI-powered applications
+- 🔧 Familiar with Git, GitHub, GitHub Actions & CI/CD
 - ☁️ Exploring modern deployment platforms and cloud technologies
 - 🌱 Continuously learning and building projects
 
-### 🎯 Career Goal
+🎯 Career Goal
 
-My goal is to grow into a **Software Development Engineer**, building scalable and useful software, contributing to open-source projects, and continuously improving my problem-solving and system-design skills.
-
----
-# 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🌐 Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-###⚙️Backend
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗄️ Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### 📊 Data & AI
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-
-**Currently exploring:**  
-`Generative AI` • `LLMs` • `RAG` • `AI Agents` • `Machine Learning`
-
-### 🧰 Tools & DevOps
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### ☁️ Deployment
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+My goal is to grow into a Software Development Engineer, building scalable and useful software, contributing to open-source projects, and continuously improving my problem-solving and system-design skills.
 
 ---
-# 🚀 Featured Projects
 
-## 🏛️ Government Scheme Portal
+🛠️ Tech Stack
+
+💻 Programming Languages
+
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+"SQL" (https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+🌐 Frontend
+
+"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+"React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+⚙️ Backend
+
+"FastAPI" (https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+"Flask" (https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+"Django" (https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+"Express.js" (https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+🗄️ Databases
+
+"PostgreSQL" (https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+"SQLite" (https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+"Supabase" (https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+📊 Data & AI
+
+"NumPy" (https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+"Pandas" (https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+"Matplotlib" (https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+Currently exploring: "Generative AI" • "LLMs" • "RAG" • "AI Agents" • "Machine Learning"
+
+🧰 Tools & DevOps
+
+"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+"GitHub Actions" (https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+"Docker" (https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+☁️ Deployment
+
+"Vercel" (https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+"Netlify" (https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white)
+"Render" (https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+---
+
+🚀 Featured Projects
+
+🏛️ Government Scheme Portal
 
 A web application designed to help users discover government schemes based on their personal and educational information.
 
-### Key Features
+Key Features
 
 - 🔐 User authentication
 - 📝 User profile management
@@ -96,19 +97,19 @@ A web application designed to help users discover government schemes based on th
 - 🔔 Notifications
 - 🗄️ Database-backed application tracking
 
-**Tech:** `Python` `FastAPI` `React.js` `PostgreSQL` `JWT` `REST API`
+Tech: "Python" "FastAPI" "React.js" "PostgreSQL" "JWT" "REST API"
 
 ---
 
-## 🪑 Smart Exam Seating & Navigation System
+🪑 Smart Exam Seating & Navigation System
 
 A smart web-based system designed to help students easily find their examination seating information.
 
-### Concept
+Concept
 
-**Student Login → Hall Ticket → College → Block → Room → Bench → Assigned Seat**
+Student Login → Hall Ticket → College → Block → Room → Bench → Assigned Seat
 
-### Key Features
+Key Features
 
 - 🔐 Hall-ticket-based authentication
 - 🔎 Student search
@@ -120,13 +121,12 @@ A smart web-based system designed to help students easily find their examination
 - 🗺️ College location navigation
 - 📊 Analytics and verification features
 
-**Tech:** `Python` `FastAPI` `React.js` `PostgreSQL` `REST API`
+Tech: "Python" "FastAPI" "React.js" "PostgreSQL" "REST API"
 
 ---
 
-# 📚 Currently Learning
+📚 Currently Learning
 
-```text
 Python
    ↓
 Data Structures & Algorithms
@@ -146,3 +146,7 @@ RAG & AI Agents
 Cloud & AI Deployment
    ↓
 System / AI Architecture
+
+---
+
+⭐ Thanks for visiting my profile! I'm always eager to learn, build, and collaborate on meaningful software projects.
