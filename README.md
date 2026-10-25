@@ -149,4 +149,4 @@ System / AI Architecture
 
 ---
 
-⭐ Thanks for visiting my profile! I'm always eager to learn, build, and collaborate on meaningful software projects.
+⭐ Thanks for visiting my profile! I'm always eager to learn, build, and collaborate on software projects.
