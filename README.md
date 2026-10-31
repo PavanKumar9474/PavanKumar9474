@@ -158,7 +158,7 @@ System Design & AI Architecture
 
 - 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
 - 🧑‍💻 **GitHub:** [Explore my repositories](https://github.com/YOUR_GITHUB_USERNAME)
-- 📧 **Email:** YOUR_EMAIL@example.com
+- 📧 **Email:** apavanreddy9474@example.com
 
 ---
 
