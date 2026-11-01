@@ -26,7 +26,6 @@ Currently, I'm strengthening my skills in **Data Structures & Algorithms, Docker
 - 🌱 Continuously learning, building, and improving
 
 ## 🎯 Career Goal
-
 My goal is to grow into a **Software Development Engineer (SDE)**, building scalable and useful software, contributing to open-source projects, and continuously improving my problem-solving, software engineering, and system design skills.
 
 ---
