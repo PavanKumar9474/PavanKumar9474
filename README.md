@@ -81,7 +81,6 @@ My goal is to grow into a **Software Development Engineer (SDE)**, building scal
 ---
 
 ## 🚀 Featured Projects
-
 ### 🏛️ Government Scheme Portal
 
 A web application designed to help users discover government schemes and check eligibility based on their personal and educational information.
