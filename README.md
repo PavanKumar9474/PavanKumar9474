@@ -1,36 +1,35 @@
-
 # 👋 Hi, I'm Pavan Kumar Reddy
 
-### 💻 Computer Science Student | Python Full-Stack Developer | Backend & AI Enthusiast
+### Python Full Stack Developer | Backend Developer | Computer Science Student
 
-I'm a Computer Science student passionate about building practical software applications and solving real-world problems through technology.
+I am a final-year Computer Science and Engineering student passionate about building practical software applications, developing backend systems, and solving real-world problems through technology.
 
-I primarily work with **Python, FastAPI, React.js, and PostgreSQL**, and I enjoy developing complete applications — from backend APIs and database design to frontend integration and deployment.
+I primarily work with **Python, FastAPI, React.js, PostgreSQL, and REST APIs**. I enjoy developing end-to-end applications, designing databases, integrating frontend and backend systems, and exploring modern software development technologies.
 
-Currently, I'm strengthening my skills in **Data Structures & Algorithms, Docker, Generative AI, and AI-powered application development**.
+Currently, I am strengthening my problem-solving skills, backend engineering knowledge, cloud technologies, and Generative AI development.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science and Engineering student
-- 🐍 Focused on Python Full-Stack Development
-- ⚡ Building backend applications with FastAPI and REST APIs
+- 🎓 Final-Year B.Tech Computer Science and Engineering Student
+- 🐍 Focused on Python Full Stack and Backend Development
+- ⚡ Building backend applications using FastAPI and REST APIs
 - ⚛️ Developing interactive frontends using React.js
 - 🗄️ Working with PostgreSQL, SQLite, and Supabase
-- 🐳 Learning Docker and containerization
-- 🧠 Practicing Data Structures & Algorithms
+- 🔐 Interested in authentication, API security, and database design
+- 🐳 Learning Docker, containerization, and CI/CD
+- 🧠 Practicing Data Structures and Algorithms
 - 🤖 Exploring Generative AI, LLMs, RAG, and AI-powered applications
-- 🔧 Familiar with Git, GitHub, GitHub Actions, and CI/CD
-- ☁️ Exploring modern deployment platforms and cloud technologies
-- 🌱 Continuously learning, building, and improving
+- 🔧 Familiar with Git, GitHub, and GitHub Actions
 
-## 🎯 Career Goal
-My goal is to grow into a **Software Development Engineer (SDE)**, building scalable and useful software, contributing to open-source projects, and continuously improving my problem-solving, software engineering, and system design skills.
+## 🎯 Career Objective
+
+To become a skilled **Software Development Engineer (SDE)** by building scalable applications, developing reliable backend systems, solving challenging technical problems, and continuously learning modern software engineering practices.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
 
@@ -43,13 +42,15 @@ My goal is to grow into a **Software Development Engineer (SDE)**, building scal
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend Development
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗄️ Databases
 
@@ -61,16 +62,17 @@ My goal is to grow into a **Software Development Engineer (SDE)**, building scal
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-**Currently Exploring:** Generative AI · LLMs · RAG · AI Agents · Machine Learning
+**Currently Exploring:** Machine Learning · Generative AI · LLMs · RAG · AI Agents
 
 ### 🧰 Tools & DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### ☁️ Deployment Platforms
 
@@ -81,87 +83,106 @@ My goal is to grow into a **Software Development Engineer (SDE)**, building scal
 ---
 
 ## 🚀 Featured Projects
-### 🏛️ Government Scheme Portal
 
-A web application designed to help users discover government schemes and check eligibility based on their personal and educational information.
+### 🏛️ 1. Government Scheme Portal
+
+A full-stack web application that helps users discover government schemes and check their eligibility based on personal and educational information.
 
 **Key Features**
-- 🔐 User authentication and profile management
-- 🔎 Government scheme eligibility checking
-- 📋 Scheme and application management
-- 📄 Document handling
-- 👨‍💼 Admin scheme management
-- 🔔 Notifications and application tracking
-- 🗄️ Database-backed data management
+- User registration and authentication
+- Profile management
+- Government scheme discovery
+- Eligibility checking
+- Online application management
+- Document handling
+- Admin dashboard and scheme management
 
 **Tech Stack:** Python · FastAPI · React.js · PostgreSQL · JWT · REST APIs
 
-### 🪑 Smart Exam Seating & Navigation System
+### 🪑 2. Smart Exam Seating & Navigation System
 
-A smart web-based application designed to help students find their examination seating information quickly and easily.
-
-**Concept:**
-
-Student Login → Hall Ticket → College → Block → Room → Bench → Assigned Seat
+A web-based application that enables students to access their examination seating information using their hall ticket number and date of birth.
 
 **Key Features**
-- 🔐 Hall-ticket-based student access
-- 🔎 Student and seating search
-- 🏫 College and block navigation
-- 🚪 Room and bench-level seat allocation
-- 🟢 Highlighted assigned seating
-- 📱 QR-based information access
-- 🗺️ College location navigation
-- 📊 Seating analytics and verification
+- Hall-ticket-based student login
+- Student seating information lookup
+- College block and room identification
+- Bench and seat allocation details
+- Assigned seat highlighting
+- QR-based information access
+- College navigation support
 
 **Tech Stack:** Python · FastAPI · React.js · PostgreSQL · REST APIs
 
+### 🏠 3. Hostel Grievance Management System
+
+A web application designed to simplify hostel complaint registration, tracking, and resolution for students and administrators.
+
+**Key Features**
+- Student and admin authentication
+- Online complaint submission
+- Complaint status tracking
+- Complaint assignment and management
+- Admin dashboard
+- Complaint resolution updates
+
+**Tech Stack:** Python · FastAPI · React.js · Database · REST APIs
+
+### 🏥 4. Hospital Management System
+
+A web-based application designed to streamline hospital operations by managing patient information, doctor details, and appointment scheduling.
+
+**Key Features**
+- Patient record management
+- Doctor information management
+- Appointment scheduling
+- Patient registration
+- Centralized data management
+
+**Tech Stack:** Web Technologies · Backend APIs · Database Management
+
 ---
 
-## 📚 My Learning Roadmap
+## 📚 Currently Learning
 
-```text
-Python
-  ↓
-Data Structures & Algorithms
-  ↓
-SQL & Database Design
-  ↓
-Backend Development
-  ↓
-Docker & CI/CD
-  ↓
-Machine Learning
-  ↓
-Generative AI & LLMs
-  ↓
-RAG & AI Agents
-  ↓
-Cloud & AI Deployment
-  ↓
-System Design & AI Architecture
-```
+| Area | Focus |
+|---|---|
+| Python | Advanced Python and problem-solving |
+| DSA | Arrays, Strings, Hashing, Trees and Graphs |
+| SQL | Joins, Subqueries, Indexing and Optimization |
+| Backend | FastAPI, Authentication and REST APIs |
+| Frontend | React.js and JavaScript |
+| DevOps | Docker, GitHub Actions and CI/CD |
+| AI | Machine Learning, LLMs and RAG |
+| System Design | Scalable application architecture |
 
 ---
 
 ## 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PavanKumar9474&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanKumar9474&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PavanKumar9474&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
-- 🧑‍💻 **GitHub:** [Explore my repositories](https://github.com/YOUR_GITHUB_USERNAME)
-- 📧 **Email:** apavanreddy9474@example.com
+I'm open to internship opportunities, entry-level software engineering roles, collaborative projects, and learning opportunities.
+
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/pavankumar9474)
+- 🧑‍💻 **GitHub:** [Explore my repositories](https://github.com/PavanKumar9474)
+- 📧 **Email:** [apavanreddy9474@gmail.com](mailto:apavanreddy9474@gmail.com)
 
 ---
 
-### ⭐ Thanks for Visiting My Profile!
+## 💡 Developer Mindset
 
-I'm always eager to learn new technologies, build meaningful projects, solve challenging problems, and collaborate with other developers.
+> Learn continuously. Build consistently. Solve real-world problems.
 
-**💡 Learn continuously,Build consistently, Solve real-world problems.**
+⭐ Thank you for visiting my GitHub profile! I'm always excited to learn, build, collaborate, and grow as a software developer.
