@@ -172,7 +172,6 @@ A web-based application designed to streamline hospital operations by managing p
 ---
 
 ## 🤝 Let's Connect
-
 I'm open to internship opportunities, entry-level software engineering roles, collaborative projects, and learning opportunities.
 
 - 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/pavankumar9474)
