@@ -273,10 +273,13 @@ I'm open to paid internship opportunities, entry-level Software Engineer roles, 
   <a href="mailto:apavanreddy9474@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>- 💼 LinkedIn: "Connect with me" (https://www.linkedin.com/in/pavankumar9474)
-- 🧑‍💻 GitHub: "Explore my repositories" (https://github.com/PavanKumar9474)
-- 📧 Email: "apavanreddy9474@gmail.com" (mailto:apavanreddy9474@gmail.com)
+</p>
+## 🧩 Coding Profiles
 
+- 💻 LeetCode: [Solve Problems](https://leetcode.com/u/pavan_kumar9474/)
+- 🧑‍💻 GitHub: [PavanKumar9474](https://github.com/PavanKumar9474)
+- 💼 LinkedIn: [Connect](https://www.linkedin.com/in/pavankumar9474)
+- 📧 Email: "apavanreddy9474@gmail.com" (mailto:apavanreddy9474@gmail.com)
 ---
 
 💡 Developer Mindset
