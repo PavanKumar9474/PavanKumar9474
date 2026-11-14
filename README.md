@@ -186,7 +186,6 @@ Tech Stack: JavaScript · Node.js · Express.js · SQLite · REST APIs · React.
 A web-based application developed to streamline hospital operations by managing patient information, doctor details, and appointment scheduling.
 
 Key Features
-
 - Patient registration
 - Patient record management
 - Doctor information management
