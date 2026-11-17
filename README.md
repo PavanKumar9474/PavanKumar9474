@@ -96,7 +96,6 @@ Currently Exploring:
 "n8n" (https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
-
 🚀 Featured Projects
 
 🛡️ 1. Sentinel-X Lite – Explainable AI-Based Cyber Threat Detection and Risk Prediction
