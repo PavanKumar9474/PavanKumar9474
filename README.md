@@ -1,7 +1,6 @@
 👋 Hi, I'm Pavan Kumar Reddy
 
 🐍 Python Full Stack Developer | Backend Developer | Software Engineer
-
 I'm a passionate Computer Science and Engineering student and aspiring Software Development Engineer (SDE) who enjoys building practical applications, designing backend systems, solving real-world problems, and exploring emerging technologies.
 
 I primarily work with Python, FastAPI, React.js, PostgreSQL, JavaScript, and REST APIs. I enjoy developing full-stack applications, building secure APIs, designing databases, and integrating modern technologies into scalable software solutions.
