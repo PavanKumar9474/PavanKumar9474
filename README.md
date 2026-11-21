@@ -6,7 +6,6 @@ I'm a passionate Computer Science and Engineering student and aspiring Software 
 I primarily work with Python, FastAPI, React.js, PostgreSQL, JavaScript, and REST APIs. I enjoy developing full-stack applications, building secure APIs, designing databases, and integrating modern technologies into scalable software solutions.
 
 Currently, I'm strengthening my skills in Data Structures and Algorithms, Backend Engineering, System Design, DevOps, and Generative AI.
-
 ---
 
 🚀 About Me
