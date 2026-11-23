@@ -29,7 +29,6 @@ To become a skilled Software Development Engineer (SDE) by developing scalable a
 ---
 
 🛠️ Technical Skills
-
 💻 Programming Languages
 
 "Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
