@@ -92,7 +92,6 @@ Currently Exploring:
 
 ---
 🚀 Featured Projects
-
 🛡️ 1. Sentinel-X Lite – Explainable AI-Based Cyber Threat Detection and Risk Prediction
 
 <sub>Final-Year Academic Project | In Progress</sub>
