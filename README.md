@@ -7,7 +7,6 @@ I primarily work with Python, FastAPI, React.js, PostgreSQL, JavaScript, and RES
 
 Currently, I'm strengthening my skills in Data Structures and Algorithms, Backend Engineering, System Design, DevOps, and Generative AI.
 ---
-
 🚀 About Me
 
 - 🎓 Final-Year B.Tech Computer Science and Engineering Student
